@@ -9,10 +9,10 @@ Created on Tue Dec 25 12:54:47 2018
 # establishing connection
 # =============================================================================
 import tweepy
-consumer_key = '8vYFAGp9JL6pu13n1Dd1HBKw2'
-consumer_secret = '2vWm3WCR3fgL02qK5XtibbrLJvpKHRXcAVHZyu61cGtTzWdeU7'
-access_token = '2576378914-V3wsVr0cx3x8or7tMtI7KVbbYrD7Y1OmW8uE3aw'
-access_token_secret = 'TKyymNul0qYLYexzvEkx2BzohaSmefaq1GDj7eMfuVrjb'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
